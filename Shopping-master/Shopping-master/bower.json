@@ -1,0 +1,10 @@
+{
+  "name": "Shopping",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "latest",
+    "backbone": "latest",
+    "underscore": "latest",
+    "dustjs-linkedin": "latest"
+  }
+}
